@@ -1,0 +1,12 @@
+Expense Report
+==============
+
+Total spent: $122.59
+
+By category:
+  food: $63.60
+  transport: $30.00
+  entertainment: $28.99
+
+Largest purchase:
+  2025-01-05 - Groceries ($36.10)
